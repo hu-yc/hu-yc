@@ -18,6 +18,6 @@ Here are some ideas to get you started:
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
  <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hu-yc" alt="Gift's LangStat" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hu-yc" alt="GitHub Streak" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hu-yc&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
